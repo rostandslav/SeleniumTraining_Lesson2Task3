@@ -1,0 +1,8 @@
+c:\Users\техносила\Documents\Visual Studio 2013\Projects\SimpleTestLinecart\SimpleTestLinecart\bin\Debug\SimpleTestLinecart.dll
+c:\Users\техносила\Documents\Visual Studio 2013\Projects\SimpleTestLinecart\SimpleTestLinecart\bin\Debug\SimpleTestLinecart.pdb
+c:\Users\техносила\Documents\Visual Studio 2013\Projects\SimpleTestLinecart\SimpleTestLinecart\bin\Debug\WebDriver.dll
+c:\Users\техносила\Documents\Visual Studio 2013\Projects\SimpleTestLinecart\SimpleTestLinecart\bin\Debug\WebDriver.Support.dll
+c:\Users\техносила\Documents\Visual Studio 2013\Projects\SimpleTestLinecart\SimpleTestLinecart\bin\Debug\WebDriver.xml
+c:\Users\техносила\Documents\Visual Studio 2013\Projects\SimpleTestLinecart\SimpleTestLinecart\bin\Debug\WebDriver.Support.xml
+c:\Users\техносила\Documents\Visual Studio 2013\Projects\SimpleTestLinecart\SimpleTestLinecart\obj\Debug\SimpleTestLinecart.dll
+c:\Users\техносила\Documents\Visual Studio 2013\Projects\SimpleTestLinecart\SimpleTestLinecart\obj\Debug\SimpleTestLinecart.pdb
